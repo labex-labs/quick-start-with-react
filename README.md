@@ -9,8 +9,8 @@ This Course primarily focuses on React fundamentals. It is a collection of React
 
 ## Scenarios
 
-|   Index | Name                                  | Difficulty   | URL                                                                  |
-|---------|---------------------------------------|--------------|----------------------------------------------------------------------|
+|   Index | Name                                 | Difficulty   | URL                                                                  |
+|---------|--------------------------------------|--------------|----------------------------------------------------------------------|
 |      01 | 📖 Your First React Lab               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92968'>Start Lab</a>  |
 |      02 | 📖 Creating and Nesting Components    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100371'>Start Lab</a> |
 |      03 | 📖 Writing Markup With JSX            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100376'>Start Lab</a> |
