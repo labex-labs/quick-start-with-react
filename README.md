@@ -9,7 +9,7 @@ This Course primarily focuses on React fundamentals. It is a collection of React
 
 ## Scenarios
 
-|   Index | Name                                 | Difficulty   | URL                                                                  |
+|   Index | Name                                 | Difficulty   | Practice                                                             |
 |---------|--------------------------------------|--------------|----------------------------------------------------------------------|
 |      01 | 📖 Your First React Lab               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92968'>Start Lab</a>  |
 |      02 | 📖 Creating and Nesting Components    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100371'>Start Lab</a> |
@@ -21,4 +21,9 @@ This Course primarily focuses on React fundamentals. It is a collection of React
 |      08 | 📖 React Hooks Introduction           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/100375'>Start Lab</a> |
 |      09 | 📖 Callable Telephone Link            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/38342'>Start Lab</a>  |
 |      10 | 📖 Show/Hide Password Toggle          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/38358'>Start Lab</a>  |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
 
