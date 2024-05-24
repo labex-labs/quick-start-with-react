@@ -1,6 +1,6 @@
 # Get Started with React
 
-![Get Started with React](https://cover-creator.labex.io/quick-start-with-react.png)
+![Get Started with React](https://cover-creator.appbot.io/quick-start-with-react.png)
 
 This Course primarily focuses on React fundamentals. It is a collection of React examples, that will teach you React from scratch.
 
