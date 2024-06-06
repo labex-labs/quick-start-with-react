@@ -24,7 +24,7 @@ This Course primarily focuses on React fundamentals. It is a collection of React
 
 ## More
 
-- 🔗 [Web Development Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Web Development Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Web Development Free Tutorials](https://github.com/labex-labs/web-development-free-tutorials)
+- 🔗 [React Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [React Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
 
