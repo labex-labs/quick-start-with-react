@@ -25,11 +25,11 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                  | Difficulty   | Practice                                                                                                           |
-|---------|---------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                 | Difficulty   | Practice                                                                                                           |
+|---------|--------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Your First React Lab               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-your-first-react-lab-92968'>Start Lab</a>                |
 |      02 | 📖 Creating and Nesting Components    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-creating-and-nesting-components-100371'>Start Lab</a>    |
-|      03 | 📖 Writing Markup With JSX            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-writing-markup-with-jsx-100376'>Start Lab</a>            |
+|      03 | 📖 Writing Markup with JSX            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-writing-markup-with-jsx-100376'>Start Lab</a>            |
 |      04 | 📖 Conditional Rendering in React     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-conditional-rendering-in-react-100370'>Start Lab</a>     |
 |      05 | 📖 Rendering React Lists Introduction | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-rendering-react-lists-introduction-100372'>Start Lab</a> |
 |      06 | 📖 Responding to Events               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/react-responding-to-events-100373'>Start Lab</a>               |
