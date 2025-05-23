@@ -31,20 +31,20 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                  | 난이도   | 연습                                                                                                                  |
 |----------|---------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 첫 번째 React 랩                   | ★★☆      | <a target='_blank' href='https://labex.io/ko/tutorials/react-your-first-react-lab-92968'>실습 시작</a>                |
-|       02 | 📖 Creating and Nesting Components    | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/react-creating-and-nesting-components-100371'>실습 시작</a>    |
-|       03 | 📖 Writing Markup with JSX            | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/react-writing-markup-with-jsx-100376'>실습 시작</a>            |
-|       04 | 📖 Conditional Rendering in React     | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/react-conditional-rendering-in-react-100370'>실습 시작</a>     |
-|       05 | 📖 Rendering React Lists Introduction | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/react-rendering-react-lists-introduction-100372'>실습 시작</a> |
-|       06 | 📖 Responding to Events               | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/react-responding-to-events-100373'>실습 시작</a>               |
-|       07 | 📖 Updating the Screen                | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/react-updating-the-screen-100374'>실습 시작</a>                |
-|       08 | 📖 React Hooks Introduction           | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/react-react-hooks-introduction-100375'>실습 시작</a>           |
-|       09 | 📖 Callable Telephone Link            | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/react-callable-telephone-link-38342'>실습 시작</a>             |
-|       10 | 📖 Show/Hide Password Toggle          | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/react-show-hide-password-toggle-38358'>실습 시작</a>           |
+|       01 | 📖 첫 번째 React 랩                   | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/react-your-first-react-lab-92968'>실습 시작</a>                |
+|       02 | 📖 Creating and Nesting Components    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/react-creating-and-nesting-components-100371'>실습 시작</a>    |
+|       03 | 📖 Writing Markup with JSX            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/react-writing-markup-with-jsx-100376'>실습 시작</a>            |
+|       04 | 📖 Conditional Rendering in React     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/react-conditional-rendering-in-react-100370'>실습 시작</a>     |
+|       05 | 📖 Rendering React Lists Introduction | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/react-rendering-react-lists-introduction-100372'>실습 시작</a> |
+|       06 | 📖 Responding to Events               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/react-responding-to-events-100373'>실습 시작</a>               |
+|       07 | 📖 Updating the Screen                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/react-updating-the-screen-100374'>실습 시작</a>                |
+|       08 | 📖 React Hooks Introduction           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/react-react-hooks-introduction-100375'>실습 시작</a>           |
+|       09 | 📖 Callable Telephone Link            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/react-callable-telephone-link-38342'>실습 시작</a>             |
+|       10 | 📖 Show/Hide Password Toggle          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/react-show-hide-password-toggle-38358'>실습 시작</a>           |
 
 ## 더 보기
 
-- 🔗 [React Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [React Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
+- 🔗 [React 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [React 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [React 무료 튜토리얼](https://github.com/labex-labs/react-free-tutorials)
 
