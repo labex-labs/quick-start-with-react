@@ -31,20 +31,20 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 |   Index | Name                                          | Schwierigkeit   | Übung                                                                                                                     |
 |---------|-----------------------------------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Dein erstes React-Lab                      | ★★☆             | <a target='_blank' href='https://labex.io/de/tutorials/react-your-first-react-lab-92968'>Labor Starten</a>                |
-|      02 | 📖 Komponenten erstellen und verschachteln    | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/react-creating-and-nesting-components-100371'>Labor Starten</a>    |
-|      03 | 📖 Markup mit JSX schreiben                   | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/react-writing-markup-with-jsx-100376'>Labor Starten</a>            |
-|      04 | 📖 Bedingtes Rendern in React                 | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/react-conditional-rendering-in-react-100370'>Labor Starten</a>     |
-|      05 | 📖 Einführung in das Rendern von React-Listen | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/react-rendering-react-lists-introduction-100372'>Labor Starten</a> |
-|      06 | 📖 Reaktion auf Ereignisse                    | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/react-responding-to-events-100373'>Labor Starten</a>               |
-|      07 | 📖 Bildschirm aktualisieren                   | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/react-updating-the-screen-100374'>Labor Starten</a>                |
-|      08 | 📖 Einführung in React Hooks                  | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/react-react-hooks-introduction-100375'>Labor Starten</a>           |
-|      09 | 📖 Aufrufbarer Telefonlink                    | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/react-callable-telephone-link-38342'>Labor Starten</a>             |
-|      10 | 📖 Passwort anzeigen/verbergen umschalten     | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/react-show-hide-password-toggle-38358'>Labor Starten</a>           |
+|      01 | 📖 Dein erstes React-Lab                      | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/react-your-first-react-lab-92968'>Labor Starten</a>                |
+|      02 | 📖 Komponenten erstellen und verschachteln    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/react-creating-and-nesting-components-100371'>Labor Starten</a>    |
+|      03 | 📖 Markup mit JSX schreiben                   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/react-writing-markup-with-jsx-100376'>Labor Starten</a>            |
+|      04 | 📖 Bedingtes Rendern in React                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/react-conditional-rendering-in-react-100370'>Labor Starten</a>     |
+|      05 | 📖 Einführung in das Rendern von React-Listen | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/react-rendering-react-lists-introduction-100372'>Labor Starten</a> |
+|      06 | 📖 Reaktion auf Ereignisse                    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/react-responding-to-events-100373'>Labor Starten</a>               |
+|      07 | 📖 Bildschirm aktualisieren                   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/react-updating-the-screen-100374'>Labor Starten</a>                |
+|      08 | 📖 Einführung in React Hooks                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/react-react-hooks-introduction-100375'>Labor Starten</a>           |
+|      09 | 📖 Aufrufbarer Telefonlink                    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/react-callable-telephone-link-38342'>Labor Starten</a>             |
+|      10 | 📖 Passwort anzeigen/verbergen umschalten     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/react-show-hide-password-toggle-38358'>Labor Starten</a>           |
 
 ## Mehr
 
-- 🔗 [React Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [React Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
+- 🔗 [React Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [React Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [React Kostenlose Tutorials](https://github.com/labex-labs/react-free-tutorials)
 
