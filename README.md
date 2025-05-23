@@ -4,9 +4,9 @@
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Get Started with React](https://cover-creator.labex.io/quick-start-with-react.png)](https://labex.io/en/courses/quick-start-with-react)
+[![Get Started with React](https://cover-creator.labex.io/quick-start-with-react.png)](https://labex.io/courses/quick-start-with-react)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/en/courses/quick-start-with-react)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/quick-start-with-react)
 
 This Course primarily focuses on React fundamentals. It is a collection of React examples, that will teach you React from scratch.
 
@@ -29,18 +29,18 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                  | Difficulty   | Practice                                                                                                              |
-|---------|---------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Your First React Lab               | ★★☆          | <a target='_blank' href='https://labex.io/en/tutorials/react-your-first-react-lab-92968'>Start Lab</a>                |
-|      02 | 📖 Creating and Nesting Components    | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/react-creating-and-nesting-components-100371'>Start Lab</a>    |
-|      03 | 📖 Writing Markup with JSX            | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/react-writing-markup-with-jsx-100376'>Start Lab</a>            |
-|      04 | 📖 Conditional Rendering in React     | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/react-conditional-rendering-in-react-100370'>Start Lab</a>     |
-|      05 | 📖 Rendering React Lists Introduction | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/react-rendering-react-lists-introduction-100372'>Start Lab</a> |
-|      06 | 📖 Responding to Events               | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/react-responding-to-events-100373'>Start Lab</a>               |
-|      07 | 📖 Updating the Screen                | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/react-updating-the-screen-100374'>Start Lab</a>                |
-|      08 | 📖 React Hooks Introduction           | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/react-react-hooks-introduction-100375'>Start Lab</a>           |
-|      09 | 📖 Callable Telephone Link            | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/react-callable-telephone-link-38342'>Start Lab</a>             |
-|      10 | 📖 Show/Hide Password Toggle          | ★☆☆          | <a target='_blank' href='https://labex.io/en/tutorials/react-show-hide-password-toggle-38358'>Start Lab</a>           |
+|   Index | Name                                  | Difficulty   | Practice                                                                                                           |
+|---------|---------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Your First React Lab               | Intermediate | <a target='_blank' href='https://labex.io/tutorials/react-your-first-react-lab-92968'>Start Lab</a>                |
+|      02 | 📖 Creating and Nesting Components    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/react-creating-and-nesting-components-100371'>Start Lab</a>    |
+|      03 | 📖 Writing Markup with JSX            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/react-writing-markup-with-jsx-100376'>Start Lab</a>            |
+|      04 | 📖 Conditional Rendering in React     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/react-conditional-rendering-in-react-100370'>Start Lab</a>     |
+|      05 | 📖 Rendering React Lists Introduction | Beginner     | <a target='_blank' href='https://labex.io/tutorials/react-rendering-react-lists-introduction-100372'>Start Lab</a> |
+|      06 | 📖 Responding to Events               | Beginner     | <a target='_blank' href='https://labex.io/tutorials/react-responding-to-events-100373'>Start Lab</a>               |
+|      07 | 📖 Updating the Screen                | Beginner     | <a target='_blank' href='https://labex.io/tutorials/react-updating-the-screen-100374'>Start Lab</a>                |
+|      08 | 📖 React Hooks Introduction           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/react-react-hooks-introduction-100375'>Start Lab</a>           |
+|      09 | 📖 Callable Telephone Link            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/react-callable-telephone-link-38342'>Start Lab</a>             |
+|      10 | 📖 Show/Hide Password Toggle          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/react-show-hide-password-toggle-38358'>Start Lab</a>           |
 
 ## More
 
