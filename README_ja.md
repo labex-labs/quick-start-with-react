@@ -31,20 +31,20 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                  | 難易度   | 練習                                                                                                                   |
 |----------------|---------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 あなたの最初の React 実験          | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/react-your-first-react-lab-92968'>ラボを開始</a>                |
-|             02 | 📖 コンポーネントの作成とネスト       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/react-creating-and-nesting-components-100371'>ラボを開始</a>    |
-|             03 | 📖 JSX を使ったマークアップの書き方   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/react-writing-markup-with-jsx-100376'>ラボを開始</a>            |
-|             04 | 📖 React における条件付きレンダリング | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/react-conditional-rendering-in-react-100370'>ラボを開始</a>     |
-|             05 | 📖 React のリストレンダリング入門     | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/react-rendering-react-lists-introduction-100372'>ラボを開始</a> |
-|             06 | 📖 イベントに応答する                 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/react-responding-to-events-100373'>ラボを開始</a>               |
-|             07 | 📖 画面の更新                         | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/react-updating-the-screen-100374'>ラボを開始</a>                |
-|             08 | 📖 React フックの紹介                 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-hooks-introduction-100375'>ラボを開始</a>           |
-|             09 | 📖 呼び出し可能な電話リンク           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/react-callable-telephone-link-38342'>ラボを開始</a>             |
-|             10 | 📖 パスワードの表示/非表示トグル      | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/react-show-hide-password-toggle-38358'>ラボを開始</a>           |
+|             01 | 📖 あなたの最初の React 実験          | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-your-first-react-lab-92968'>ラボを開始</a>                |
+|             02 | 📖 コンポーネントの作成とネスト       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-creating-and-nesting-components-100371'>ラボを開始</a>    |
+|             03 | 📖 JSX を使ったマークアップの書き方   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-writing-markup-with-jsx-100376'>ラボを開始</a>            |
+|             04 | 📖 React における条件付きレンダリング | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-conditional-rendering-in-react-100370'>ラボを開始</a>     |
+|             05 | 📖 React のリストレンダリング入門     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-rendering-react-lists-introduction-100372'>ラボを開始</a> |
+|             06 | 📖 イベントに応答する                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-responding-to-events-100373'>ラボを開始</a>               |
+|             07 | 📖 画面の更新                         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-updating-the-screen-100374'>ラボを開始</a>                |
+|             08 | 📖 React フックの紹介                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-react-hooks-introduction-100375'>ラボを開始</a>           |
+|             09 | 📖 呼び出し可能な電話リンク           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-callable-telephone-link-38342'>ラボを開始</a>             |
+|             10 | 📖 パスワードの表示/非表示トグル      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/react-show-hide-password-toggle-38358'>ラボを開始</a>           |
 
 ## その他
 
-- 🔗 [React Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [React Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
+- 🔗 [React プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [React プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [React 無料チュートリアル](https://github.com/labex-labs/react-free-tutorials)
 
