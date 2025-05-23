@@ -31,20 +31,20 @@ Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 |   Índice | Nombre                                                   | Dificultad   | Práctica                                                                                                                        |
 |----------|----------------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Tu primer laboratorio de React                        | ★★☆          | <a target='_blank' href='https://labex.io/es/tutorials/react-your-first-react-lab-92968'>Iniciar Laboratorio</a>                |
-|       02 | 📖 Creación y anidamiento de componentes                 | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/react-creating-and-nesting-components-100371'>Iniciar Laboratorio</a>    |
-|       03 | 📖 Escribir marcas con JSX                               | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/react-writing-markup-with-jsx-100376'>Iniciar Laboratorio</a>            |
-|       04 | 📖 Renderizado Condicional en React                      | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/react-conditional-rendering-in-react-100370'>Iniciar Laboratorio</a>     |
-|       05 | 📖 Introducción a la representación (rendering) de li... | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/react-rendering-react-lists-introduction-100372'>Iniciar Laboratorio</a> |
-|       06 | 📖 Respondiendo a eventos                                | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/react-responding-to-events-100373'>Iniciar Laboratorio</a>               |
-|       07 | 📖 Actualización de la pantalla                          | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/react-updating-the-screen-100374'>Iniciar Laboratorio</a>                |
-|       08 | 📖 Introducción a los Hooks de React                     | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/react-react-hooks-introduction-100375'>Iniciar Laboratorio</a>           |
-|       09 | 📖 Enlace telefónico llamable                            | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/react-callable-telephone-link-38342'>Iniciar Laboratorio</a>             |
-|       10 | 📖 Alternador de Mostrar/Ocultar Contraseña              | ★☆☆          | <a target='_blank' href='https://labex.io/es/tutorials/react-show-hide-password-toggle-38358'>Iniciar Laboratorio</a>           |
+|       01 | 📖 Tu primer laboratorio de React                        | Intermedio   | <a target='_blank' href='https://labex.io/es/tutorials/react-your-first-react-lab-92968'>Iniciar Laboratorio</a>                |
+|       02 | 📖 Creación y anidamiento de componentes                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/react-creating-and-nesting-components-100371'>Iniciar Laboratorio</a>    |
+|       03 | 📖 Escribir marcas con JSX                               | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/react-writing-markup-with-jsx-100376'>Iniciar Laboratorio</a>            |
+|       04 | 📖 Renderizado Condicional en React                      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/react-conditional-rendering-in-react-100370'>Iniciar Laboratorio</a>     |
+|       05 | 📖 Introducción a la representación (rendering) de li... | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/react-rendering-react-lists-introduction-100372'>Iniciar Laboratorio</a> |
+|       06 | 📖 Respondiendo a eventos                                | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/react-responding-to-events-100373'>Iniciar Laboratorio</a>               |
+|       07 | 📖 Actualización de la pantalla                          | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/react-updating-the-screen-100374'>Iniciar Laboratorio</a>                |
+|       08 | 📖 Introducción a los Hooks de React                     | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/react-react-hooks-introduction-100375'>Iniciar Laboratorio</a>           |
+|       09 | 📖 Enlace telefónico llamable                            | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/react-callable-telephone-link-38342'>Iniciar Laboratorio</a>             |
+|       10 | 📖 Alternador de Mostrar/Ocultar Contraseña              | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/react-show-hide-password-toggle-38358'>Iniciar Laboratorio</a>           |
 
 ## Más
 
-- 🔗 [React Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [React Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
+- 🔗 [React Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [React Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [React Tutoriales Gratuitos](https://github.com/labex-labs/react-free-tutorials)
 
