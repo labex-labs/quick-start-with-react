@@ -13,6 +13,21 @@ Ce cours se concentre principalement sur les bases de React. C'est une collectio
 ![React](https://img.shields.io/badge/React-whitesmoke?style=for-the-badge&logo=react)
 
 
+## Exercices
+
+|   Index | Nom                                                | Difficulté    | Pratique                                                                                                                     |
+|---------|----------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🔵 Votre premier laboratoire React              | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/react-your-first-react-lab-92968'>Commencer le Lab</a>                |
+|      02 | 📖 🔵 Création et imbrication de composants        | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/react-creating-and-nesting-components-100371'>Commencer le Lab</a>    |
+|      03 | 📖 🔵 Écrire du balisage avec JSX                  | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/react-writing-markup-with-jsx-100376'>Commencer le Lab</a>            |
+|      04 | 📖 🔵 Affichage conditionnel en React              | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/react-conditional-rendering-in-react-100370'>Commencer le Lab</a>     |
+|      05 | 📖 🔵 Introduction au rendu de listes React        | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/react-rendering-react-lists-introduction-100372'>Commencer le Lab</a> |
+|      06 | 📖 🔵 Réponse aux événements                       | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/react-responding-to-events-100373'>Commencer le Lab</a>               |
+|      07 | 📖 🔵 Mise à jour de l'écran                       | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/react-updating-the-screen-100374'>Commencer le Lab</a>                |
+|      08 | 📖 🔵 Présentation des hooks React                 | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/react-react-hooks-introduction-100375'>Commencer le Lab</a>           |
+|      09 | 📖 🟢 Lien téléphonique appelable                  | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/react-callable-telephone-link-38342'>Commencer le Lab</a>             |
+|      10 | 📖 🟢 Basculer l'affichage/cachage du mot de passe | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/react-show-hide-password-toggle-38358'>Commencer le Lab</a>           |
+
 ## Environnement
 
 LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo.
@@ -23,24 +38,9 @@ LabEx est une plateforme d'apprentissage interactive et pratique dédiée au cod
 - Des environnements en ligne interactifs dans le navigateur, avec des vérifications automatisées étape par étape.
 - Une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences.
 - Une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires.
-- L'assistant d'apprentissage IA Labby, construit sur ChatGPT, offrant une expérience d'apprentissage conversationnelle.
+- L'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
 
 En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Exercices
-
-|   Index | Nom                                             | Difficulté    | Pratique                                                                                                                     |
-|---------|-------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Votre premier laboratoire React              | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/react-your-first-react-lab-92968'>Commencer le Lab</a>                |
-|      02 | 📖 Création et imbrication de composants        | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/react-creating-and-nesting-components-100371'>Commencer le Lab</a>    |
-|      03 | 📖 Écrire du balisage avec JSX                  | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/react-writing-markup-with-jsx-100376'>Commencer le Lab</a>            |
-|      04 | 📖 Affichage conditionnel en React              | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/react-conditional-rendering-in-react-100370'>Commencer le Lab</a>     |
-|      05 | 📖 Introduction au rendu de listes React        | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/react-rendering-react-lists-introduction-100372'>Commencer le Lab</a> |
-|      06 | 📖 Réponse aux événements                       | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/react-responding-to-events-100373'>Commencer le Lab</a>               |
-|      07 | 📖 Mise à jour de l'écran                       | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/react-updating-the-screen-100374'>Commencer le Lab</a>                |
-|      08 | 📖 Présentation des hooks React                 | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/react-react-hooks-introduction-100375'>Commencer le Lab</a>           |
-|      09 | 📖 Lien téléphonique appelable                  | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/react-callable-telephone-link-38342'>Commencer le Lab</a>             |
-|      10 | 📖 Basculer l'affichage/cachage du mot de passe | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/react-show-hide-password-toggle-38358'>Commencer le Lab</a>           |
 
 ## Plus
 
